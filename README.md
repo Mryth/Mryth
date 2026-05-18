@@ -1,16 +1,22 @@
-## Hi there 👋
+Hey there!
 
-<!--
-**Mryth/Mryth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Younes, an AI Engineering student at ENSIAS based in Morocco, deeply interested in Data Engineering and MLOps.
 
-Here are some ideas to get you started:
+This GitHub is my ongoing space for documenting experiments, software architectures, and everything I am building. Right now, I am focusing heavily on the industrialization of machine learning models and building advanced Retrieval-Augmented Generation (RAG) systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me via: [LinkedIn](https://www.linkedin.com/in/younes-tahraoui-00ab49245) / [Email](younestahraoui48@gmail.com)
+
+---
+
+### The tools I frequently use
+
+**DevOps & MLOps**
+Docker / Kubernetes / MLflow / DVC
+
+**Development & Frameworks**
+Python / PyTorch / FastAPI / C++ / ROS2 / Gazebo
+
+**Databases & Graph**
+Neo4j / Vector Databases / SQL
+
+---
